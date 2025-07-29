@@ -1,1 +1,3 @@
 /files/non-sanitized/*
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
