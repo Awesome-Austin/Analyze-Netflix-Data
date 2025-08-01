@@ -1,6 +1,5 @@
-*/.ipynb_checkpoints/*
-*.ipynb
+.ipynb_checkpoints
 *.pyc
 
 
-/files/non-sanitized/*
+files/non-sanitized/*
